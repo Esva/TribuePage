@@ -1,18 +1,15 @@
-# README - CodePen Tribute page assignement
+# It's a README - CodePen Tribute page assignement
 
-## 7.2 - My Tribute Page
+## 1.0 - My Tribute Page
 
 Creation of a tribute page using HTML and CSS
 
 <details>
-  <summary>Super Secret Hint</summary>
-  All of these steps have been covered in step 6 of your *learning journey* if you need any clues as to what to do maybe think about looking back at these resources 🤷
+  <summary>Initial Code</summary>
+  Initial coding done in CodePEn to create a Tribute  website about something I love a lot, that being Jeff Wayne's Music version of "The War of the Worlds" 
  
- Link to instructions on cloning:https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 </details>
 
-## 7.3 - Deploying your site using github Pages
+## 1.1 - Code done and Published
 
-Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-
-Make sure that the deployed branch is `main` in settings.
+Had to go back into code pen and fix issues that was making the font appear at 300 times the normal size. Then Deployed on GitHub
