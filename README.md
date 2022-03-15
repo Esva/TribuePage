@@ -1,14 +1,8 @@
-# README - Learning Journey step 7
+# README - CodePen Tribute page assignement
 
-## 7.2 - Your Tribute Page
+## 7.2 - My Tribute Page
 
-You will now be using git and vscode to:
-
-  * _clone_ your repository to your local machine (use the HTTPS link)
-
-  * _update_ the sample HTML and CSS files with your own code (from CodePen) 
-
-  * _add, commit and push_ your changes to your brand new repository. Pretty cool eh?
+Creation of a tribute page using HTML and CSS
 
 <details>
   <summary>Super Secret Hint</summary>
